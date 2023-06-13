@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Sonic Robo Blast 2 Kart Galaxy
+Name=Sonic Robo Blast 2 Kart Galaxy-HEP
 Comment=A kart racing mod based on the 3D Sonic the Hedgehog fangame Sonic Robo Blast 2
 TryExec=srb2kart.sh
 Exec=srb2kart.sh
