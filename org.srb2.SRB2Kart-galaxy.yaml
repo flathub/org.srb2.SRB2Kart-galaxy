@@ -122,8 +122,8 @@ modules:
       - install -D -m 644 src/sdl/srb2icon.png $FLATPAK_DEST/share/icons/hicolor/64x64/apps/$FLATPAK_ID.png
     sources:
       - type: git
-        url: https://git.do.srb2.org/Galactice/Kart-Public.git
-        commit: ef8e6abebd9db6d4e7ee3e13767f16ff634acfd3
+        url: https://git.do.srb2.org/haya_/Kart-Public.git
+        commit: 4b8471c232f2024a679b546259d3b6dd943dc095
 
   - name: other-files
     buildsystem: simple
@@ -149,6 +149,11 @@ modules:
         url: https://github.com/STJr/Kart-Public/releases/download/v1.6/AssetsLinuxOnly.zip
         sha256: 7a384fb99d42f0cf41d12e3ed873754f9a5ba2b993d5e54bde7962bea3accdd1
         size: 220991971
+      - type: extra-data
+        filename: snowy_files.kart
+        url: https://drive.google.com/uc?export=download&id=1luvNekal7yFMAvwa7sTywaEB1akHFdP3
+        sha256: 7fe47e74872c43b11fb6863b0afd23f2fdeca4c6ed135c38129079cf635decae
+        size: 681283
       - type: script
         commands:
           - unzip Data.zip *.kart srb2.srb mdls* > /dev/null
