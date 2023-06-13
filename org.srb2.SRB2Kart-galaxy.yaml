@@ -156,6 +156,6 @@ modules:
         size: 681283
       - type: script
         commands:
-          - unzip Data.zip *.kart srb2.srb mdls* > /dev/null
+          - unzip Data.zip chars.kart gfx.kart maps.kart music.kart sounds.kart textures.kart srb2.srb mdls* > /dev/null # unzip is cursed
           - rm Data.zip
         dest-filename: apply_extra
