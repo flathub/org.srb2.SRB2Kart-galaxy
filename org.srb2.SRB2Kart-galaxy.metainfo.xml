@@ -45,7 +45,7 @@
     <binary>srb2kart</binary>
   </provides>
   <releases>
-    <release version="1.2" date="2023-01-18">
+    <release version="v1.2" date="2023-01-18">
       <url>https://mb.srb2.org/addons/srb2kart-galaxy.4500/update/8029</url>
     </release>
   </releases>
