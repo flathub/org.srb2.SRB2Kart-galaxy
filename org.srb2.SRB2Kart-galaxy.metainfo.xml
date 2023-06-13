@@ -4,7 +4,7 @@
   <id>org.srb2.SRB2Kart-galaxy</id>
   <metadata_license>FSFAP</metadata_license>
   <project_license>GPL-2.0+</project_license>
-  <name>Sonic Robo Blast 2 Kart Galaxy</name>
+  <name>Sonic Robo Blast 2 Kart Galaxy-HEP</name>
   <summary>Modded SRB2Kart adding many custom features</summary>
   <description>
     <p>
@@ -38,15 +38,14 @@
       <caption>Game play as Metal Sonic</caption>
     </screenshot>
   </screenshots>
-  <url type="homepage">https://mb.srb2.org/addons/srb2kart-galaxy.4500</url>
-  <url type="vcs-browser">https://git.do.srb2.org/Galactice/Kart-Public</url>
-  <developer_name>Galactice</developer_name>
+  <url type="homepage">https://mb.srb2.org/addons/hayas-expansion-pak.5254</url>
+  <url type="vcs-browser">https://git.do.srb2.org/haya_/Kart-Public</url>
+  <developer_name>haya__</developer_name>
   <provides>
     <binary>srb2kart</binary>
   </provides>
   <releases>
-    <release version="1.2" date="2023-01-18">
-      <url>https://mb.srb2.org/addons/srb2kart-galaxy.4500/update/8029</url>
+    <release version="v1" date="2023-06-07">
     </release>
   </releases>
 	<categories>
