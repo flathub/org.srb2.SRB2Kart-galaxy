@@ -45,6 +45,8 @@
     <binary>srb2kart</binary>
   </provides>
   <releases>
+    <release version="1.1" date="2023-07-13">
+    </release>
     <release version="1" date="2023-06-07">
     </release>
   </releases>
