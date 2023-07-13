@@ -123,7 +123,7 @@ modules:
     sources:
       - type: git
         url: https://git.do.srb2.org/haya_/Kart-Public.git
-        commit: 4b8471c232f2024a679b546259d3b6dd943dc095
+        commit: 8641b63ee1188828c2c129b45828c41608d8ab78
 
   - name: other-files
     buildsystem: simple
