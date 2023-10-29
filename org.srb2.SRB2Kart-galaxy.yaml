@@ -123,7 +123,7 @@ modules:
     sources:
       - type: git
         url: https://git.do.srb2.org/Galactice/Kart-Public.git
-        commit: 2b6074c6c93ad601b802c7d038c63ec227757790
+        commit: 1b61dae551dcdcf4807ef40cd58d21f37121e5ee
 
   - name: other-files
     buildsystem: simple
