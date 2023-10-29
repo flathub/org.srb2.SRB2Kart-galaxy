@@ -45,6 +45,9 @@
     <binary>srb2kart</binary>
   </provides>
   <releases>
+    <release version="1.2" date="2023-08-10">
+      <url>https://mb.srb2.org/addons/hayas-expansion-pak.5254/update/9896/</url>
+    </release>
     <release version="1.1" date="2023-07-13">
       <url>https://mb.srb2.org/addons/hayas-expansion-pak.5254/update/9660</url>
     </release>
