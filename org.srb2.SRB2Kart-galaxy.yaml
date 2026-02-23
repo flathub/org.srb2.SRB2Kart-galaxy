@@ -15,13 +15,13 @@ finish-args:
   - --filesystem=xdg-run/discord-ipc-0
 
 add-extensions:
-  com.valvesoftware.Steam.Utility.gamescope:
-    version: stable
-    add-ld-path: lib
-    no-autodownload: true
-    autodelete: true
+  org.freedesktop.Platform.VulkanLayer.gamescope:
     directory: utils/gamescope
-
+    version: '25.08'
+    add-ld-path: lib
+    no-autodownload: false
+    autodelete: true
+    
 cleanup-commands:
   - mkdir -p /app/utils/gamescope
 
